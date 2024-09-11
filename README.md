@@ -33,7 +33,7 @@ In the following, we summarize links to some frequently used CD datasets:
 ## Pretrained Models
 
 For readers to easily evaluate the accuracy, we provide the trained weights of the LTCD.
-[Baidu](链接: https://pan.baidu.com/s/1yTjBrW2SxxA91CSE1KejoQ) (pswd: o6d2)
+[Baidu](https://pan.baidu.com/s/1yTjBrW2SxxA91CSE1KejoQ) (pswd: o6d2)
 
 ## Predict Results
 For readers to easily evaluate the accuracy, we also provide the predict results of the LTCD.
